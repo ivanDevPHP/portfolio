@@ -85,6 +85,15 @@ body {
     margin-top: -20px;
 }
 
+.about-me {
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.about-me h2{
+    text-align: center;
+}
+
 .main{
     padding: 10px 180px 80px 100px;
 }
@@ -178,6 +187,12 @@ body {
     font-weight: 100;
     margin-top: 0;
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #F9322C;
+    color: white;
+}
 
 @media (max-width: 1000px){
     .navigation li{
@@ -218,4 +233,5 @@ body {
         margin-left: 20px;
         margin-right: 20px;
     }
+      
 }
